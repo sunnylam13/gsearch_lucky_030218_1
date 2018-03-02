@@ -12,3 +12,7 @@ Google Searches
 
 	https://www.google.ca/search?q=SEARCH_TERM_ENTRY
 
+If you use the Element Inspector you can see that search results use a class of `r` or `.r`...
+
+This can be used for selector targeting...
+
