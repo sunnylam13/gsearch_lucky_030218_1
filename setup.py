@@ -11,7 +11,7 @@ config = {
 	'author_email': 'sunny.lam@gmail.com',
 	'version': '0.1',
 	'install_requires': ['nose'],
-	'packages': ['os,requests,webbrowser'],
+	'packages': ['requests, sys, webbrowser, bs4'],
 	'scripts': [],
 	'name': 'Lucky Google Search'
 }
