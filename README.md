@@ -20,6 +20,10 @@ The program searches for a search term supplied through the command line and has
 
 * call the `webbrowser.open()` function to open the web browser
 
+## Execution
+
+	python3 gsearch_lucky_030218_1.py SEARCH TERM
+
 ## Resources and References
 
 ABSP:  413
